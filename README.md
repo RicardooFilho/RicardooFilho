@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="right" alt="shunsui" src="https://images-ext-2.discordapp.net/external/V5WqiQ5wJ1dC5tnzLoRyyOTrF3mUAKoNLQUoPNAlzYM/https/media.tenor.com/zdC58W423gkAAAPo/bleach-shunsui.mp4">
 </div>
 
   ##
