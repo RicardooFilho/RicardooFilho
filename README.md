@@ -1,5 +1,5 @@
 # 👾 Sobre mim:
-💻 Atualmente trabalho como Estagiário de Suporte ao Cliente no <a href="https://datletica.com.br/#1">Datlética</a><br>👨🏽‍🎓 Cursando o 3° período de Engenharia de Software<br>📚 Estudando HTML, CSS e Javascript<br>😆 Pronomes: Ele/Dele<br>🤗 Obrigado pela visita!
+💻 Atualmente trabalho como Estagiário de Suporte ao Cliente no <a href="https://datletica.com.br/#1">Datlética</a><br>👨🏽‍🎓 Cursando o 4° período de Engenharia de Software<br>📚 Estudando HTML, CSS e Javascript<br>😆 Pronomes: Ele/Dele<br>🤗 Obrigado pela visita!
 
 
 ## 🌐 Redes Sociais:
