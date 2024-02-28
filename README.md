@@ -1,5 +1,5 @@
 # 👾 Sobre mim:
-💻 Atualmente sou Desenvolvedor na <a href="https://www.elotech.com.br">Elotech</a><br>👨🏽‍🎓 Cursando o 5° período de Engenharia de Software<br>📚 Estudando Java<br>😆 Pronomes: Ele/Dele<br>🤗 Obrigado pela visita!
+💻 Atualmente sou Desenvolvedor na <a href="https://www.elotech.com.br">Elotech</a><br>👨🏽‍🎓 Cursando o 5° período de Engenharia de Software<br>😆 Pronomes: Ele/Dele<br>🤗 Obrigado pela visita!
 
 
 ## 🌐 Redes Sociais:
